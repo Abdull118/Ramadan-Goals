@@ -1,0 +1,62 @@
+.tasbih-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 190px;
+}
+
+.bead {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: #FFC107;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+
+.tasbihButton {
+    position: relative;
+    right: 0;
+    left: 40px;
+    top: 10px;
+    z-index: 1;
+    background-color: black;
+    border-radius: 20%;
+    width: 100px;
+    height: 100px;
+    color: white;
+    font-size: 22px;
+    margin-top: 5px;
+}
+
+.select-container {
+    margin-top: 15px;
+    position: relative;
+    right: 0;
+    left: 34px;
+
+}
+
+.select {
+    background-color: black;
+    border-radius: 20px;
+    height: 50px;
+    width: 70%;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+select>option {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: -100px
+}

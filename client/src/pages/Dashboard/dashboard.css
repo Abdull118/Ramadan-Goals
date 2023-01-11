@@ -1,0 +1,40 @@
+.delay-05 {
+    -webkit-animation-delay: 3000ms;
+    -moz-animation-delay: none;
+    animation-delay: 1500ms;
+    text-align: center;
+}
+
+
+.delay-1 {
+    -webkit-animation-delay: 3000ms;
+    -moz-animation-delay: none;
+    animation-delay: 3000ms;
+    text-align: center;
+}
+
+.delay-2 {
+    -webkit-animation-delay: 3000ms;
+    -moz-animation-delay: none;
+    animation-delay: 9000ms;
+    text-align: center;
+}
+
+.delay-3 {
+    -webkit-animation-delay: 3000ms;
+    -moz-animation-delay: none;
+    animation-delay: 15000ms;
+    text-align: center;
+}
+
+.delay-4 {
+    -webkit-animation-delay: 3000ms;
+    -moz-animation-delay: none;
+    animation-delay: 19000ms;
+    text-align: center;
+}
+
+.backgroundMain {
+    color: white;
+    margin-top: 20%;
+}
